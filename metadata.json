@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets Overview",
+  "description": "Comprehensive market overview tracking global indices, US stocks, crypto, commodities, forex, bonds, and economic events with interactive charts and screeners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
